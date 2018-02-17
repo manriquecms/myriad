@@ -1,6 +1,6 @@
 # Myriad
 
-[![Build Status](https://travis-ci.org/apache/incubator-myriad.svg)](https://travis-ci.org/apache/incubator-myriad)
+[![Build Status](https://travis-ci.org/myriad-framework/myriad.svg)](https://travis-ci.org/myriad-framework/myriad)
 
 Myriad is a Mesos framework designed for scaling a YARN cluster on Mesos. Myriad can expand or shrink the resources managed by a YARN cluster in response to events as per configured rules and policies.
 
